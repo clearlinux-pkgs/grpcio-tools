@@ -1,5 +1,5 @@
 PKG_NAME := grpcio-tools
-URL = https://files.pythonhosted.org/packages/f0/18/8ace4beaf76c4447bb456d6718ab46d04237d0c94842489d6e2e1496a68a/grpcio-tools-1.41.0.tar.gz
+URL = https://files.pythonhosted.org/packages/3c/9b/cf7092cbcf60930f36a204301640be0b95470d358cd53b57c84578cbb16c/grpcio-tools-1.41.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
