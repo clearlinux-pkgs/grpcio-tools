@@ -4,7 +4,7 @@
 #
 Name     : grpcio-tools
 Version  : 1.41.1
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/3c/9b/cf7092cbcf60930f36a204301640be0b95470d358cd53b57c84578cbb16c/grpcio-tools-1.41.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3c/9b/cf7092cbcf60930f36a204301640be0b95470d358cd53b57c84578cbb16c/grpcio-tools-1.41.1.tar.gz
 Summary  : Protobuf code generator for gRPC
